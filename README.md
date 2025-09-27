@@ -40,7 +40,7 @@ Website Traffic: An indicator of site novelty or obscurity.
 To run the analysis locally, clone the repository and install dependencies:
 
 # Clone the repository
-git clone [YOUR_REPO_URL_HERE]
+git clone https://github.com/Aditya-Dusane/Phishing-and-Spam-Detection-Based-on-Email-Heuristics-and-Text-Analysis.git
 
 # Install required libraries
 pip install -r requirements.txt
